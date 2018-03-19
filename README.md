@@ -13,7 +13,7 @@ NOTE: FakeSMC & Plugins starting from v915 provides additional sensors informati
 
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/captu396.png)
 
-[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/2captu20.png)
+[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/captu399.png)
   
 
 ### Instructions: You need Existing Clover V2.4k. UEFI or ESP This does not install Clover, it will install only FakeSMC and plugins in the Other folder.
