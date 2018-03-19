@@ -1,5 +1,7 @@
 # HWSensors-V6.26.1463 EFI
 
+### Support GPU ATI Polaris and GPU Nvidia Pascal
+
 ### Working for OS X Mavericks 10.9 to macOS High Sierra 10.13
 
 ### Credit: HWSensors Project (c) 2010 netkas, slice, usr-sse2, kozlek, navi, RehabMan and others. All rights reserved.
