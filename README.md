@@ -1,0 +1,1 @@
+# HWSensors-V6.26.1462-EFI
