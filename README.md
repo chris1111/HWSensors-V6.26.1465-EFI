@@ -11,7 +11,7 @@ NOTE: FakeSMC & Plugins starting from v915 provides additional sensors informati
 - Testeurs: lafayen33, MilesTEG1, arcade33, emax31
 - Packager chris1111
 
-[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/captu395.png)
+[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/captu396.png)
 
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/2captu20.png)
   
