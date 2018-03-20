@@ -1,4 +1,4 @@
-# HWSensors-V6.26.1463 EFI
+# HWSensors-V6.26.1464 EFI
 
 ### Support many GPU, Support also ATI Polaris and GPU Nvidia Pascal
 
