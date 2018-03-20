@@ -13,7 +13,7 @@ NOTE: FakeSMC & Plugins starting from v915 provides additional sensors informati
 - Testeurs: lafayen33, MilesTEG1, arcade33, emax31
 - Packager chris1111
 
-### Built from ➤ [➤ HWSensors kozlek Project ](https://github.com/kozlek/HWSensors)
+#### Built from [HWSensors kozlek Project ](https://github.com/kozlek/HWSensors)
 
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/captu403.png)
 
