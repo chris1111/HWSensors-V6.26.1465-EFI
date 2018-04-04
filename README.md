@@ -8,11 +8,12 @@
 NOTE: FakeSMC & Plugins starting from v915 provides additional sensors information to HWMonitor.
 
 ### Credit:
-- Developer: kozlek, slice, usr-sse2, Navi 
+- Developer: kozlek, slice, usr-sse2, Navi
+- FakeSMC: netkas
 - Helping: dmatora, DevAndArtist
-- MountEFI Clover Team
+- MountEFI: Clover Team
 - Testeurs: lafayen33, MilesTEG1, arcade33, emax31
-- Packager chris1111
+- Packager: chris1111
 
 #### Built from [HWSensors kozlek Project ](https://github.com/kozlek/HWSensors) with Xcode 9.2
 
