@@ -8,7 +8,8 @@
 NOTE: FakeSMC & Plugins starting from v915 provides additional sensors information to HWMonitor.
 
 ### Credit:
-- dmatora, DevAndArtist
+- Developer: kozlek, slice, usr-sse2, Navi 
+- Helping: dmatora, DevAndArtist
 - MountEFI Clover Team
 - Testeurs: lafayen33, MilesTEG1, arcade33, emax31
 - Packager chris1111
