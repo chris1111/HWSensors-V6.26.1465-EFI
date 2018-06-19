@@ -2,7 +2,7 @@
 
 ### Support many GPU, Support also ATI Polaris and GPU Nvidia Pascal
 
-### Working for OS X Mavericks 10.9 to macOS Mojave
+### Working for OS X Mavericks 10.9 to macOS Mojave 10.14
 
 ### Credit: HWSensors Project (c) 2010 netkas, slice, usr-sse2, kozlek, navi, RehabMan and others. All rights reserved.
 NOTE: FakeSMC & Plugins starting from v915 provides additional sensors information to HWMonitor.
