@@ -17,11 +17,10 @@ NOTE: FakeSMC & Plugins starting from v915 provides additional sensors informati
 
 #### Built from [HWSensors kozlek Project ](https://github.com/kozlek/HWSensors) with Xcode 9.2
 
-[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/captu403.png)
-
-[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/encapt10.png)
+![Screen Shot 2020-03-03 at 6 50 00 AM](https://user-images.githubusercontent.com/6248794/75773202-6c423580-5d1b-11ea-9e08-52caf43181fc.png)
+![Screen Shot 2020-03-03 at 6 50 50 AM](https://user-images.githubusercontent.com/6248794/75773212-706e5300-5d1b-11ea-8e93-ea487c8b512e.png)
   
 
 ### Instructions: You need Existing Clover V2.4k. UEFI or ESP This does not install Clover, it will install only FakeSMC and plugins in the Other folder.
 
-### Download the Latest Release [➤ HWSensors.V6.26-1465 EFI.pkg ](https://github.com/chris1111/HWSensors-V6.26.1463-EFI/releases/tag/V1.2)
+### Download the Latest Release [➤ HWSensors.V6.26-1465 EFI.pkg ](https://github.com/chris1111/HWSensors-V6.26.1463-EFI/releases/tag/V1)
