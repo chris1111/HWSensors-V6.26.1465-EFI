@@ -1,5 +1,8 @@
 # HWSensors-V6.26.1465 EFI
 
+### Update 11 April 2020 
+- support background Dark mode then open HWMonitor after installation (Visible on the Status Bar)
+
 ### Support many GPU, Support also ATI Polaris and GPU Nvidia Pascal
 
 ### Working for OS X Mavericks 10.9 to macOS Catalina 10.15
